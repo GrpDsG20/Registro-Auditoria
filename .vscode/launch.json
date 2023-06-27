@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjDsiApplication<projDsi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springboot.ProjDsiApplication",
+            "projectName": "projDsi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
